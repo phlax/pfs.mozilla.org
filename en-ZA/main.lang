@@ -142,7 +142,7 @@ Developers {ok}
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+Choose the independent browser meta meta meta
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -221,7 +221,7 @@ Page language:
 
 
 ;Legal
-Legal
+Legal meta meta meta
 
 
 # Used as link in the footer
