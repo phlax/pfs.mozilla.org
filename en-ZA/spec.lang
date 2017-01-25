@@ -1,0 +1,25 @@
+## active ##
+## promo_test ##
+## NOTE: this is a test file
+## URL: http://someserver.com/%LOCALE%/path/to/file.html
+
+
+## TAG: promo_test
+# just a test
+;String in English
+Translated string
+
+
+## MAX_LENGTH: 80
+;Another string
+Another translated string
+
+
+;Untranslated string
+Untranslated string
+
+
+;Same translation
+Same translation {ok}
+
+
