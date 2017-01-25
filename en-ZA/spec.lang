@@ -7,19 +7,19 @@
 ## TAG: promo_test
 # just a test
 ;String in English
-Translated string
+Translated string A
 
 
 ## MAX_LENGTH: 80
 ;Another string
-Another translated string
+Another translated string B
 
 
 ;Untranslated string
-Untranslated string
+C
 
 
 ;Same translation
-Same translation {ok}
+Same translation D
 
 
